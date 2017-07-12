@@ -35,7 +35,7 @@
   </event>
   <event date="2017-07-01">
     <action type="read">
-      The Nature of Software Development
+      The Nature of Software Development - Ron Jeffries
     </action>
     <references>
       <reference src="https://pragprog.com/book/rjnsd/the-nature-of-software-development" type="source" />
