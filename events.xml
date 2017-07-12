@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-07-02">
+    <action type="read">
+      One Practical Alternative to Estimates - J.B. Rainsberger @jbrains
+    </action>
+    <references>
+      <reference src="http://blog.jbrains.ca/permalink/one-practical-alternative-to-estimates" type="source" />
+    </references>
+  </event>
   <event date="2017-07-01">
     <action type="read">
       The Nature of Software Development
