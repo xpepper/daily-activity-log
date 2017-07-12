@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2017-07-10">
+    <action type="watching">
+      Yes, You Should Spend 25 Minutes Watching a Video about Trust (...and yes, I prefer the video to an article) - J.B. Rainsberger @jbrains
+    </action>
+    <references>
+      <reference src="http://us2.campaign-archive2.com/?u=80ca60ec48ef77dfaa1f38943&id=9c260529f2&e=da9067a70f" type="source" />
+    </references>
+  </event>
+  <event date="2017-07-10">
     <action type="read">
       Don’t Know What I Want, But I Know How to Get It: Why knowing what you want in agile development may be an impediment to getting it - Jeff Patton
     </action>
