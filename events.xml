@@ -41,12 +41,12 @@
       <reference src="https://pragprog.com/book/rjnsd/the-nature-of-software-development" type="source" />
     </references>
   </event>
- <event date="2017-06-27">
+  <event date="2017-06-27">
    <action type="watched">
      Software, Faster • Dan North (GOTO 2016)
    </action>
    <references>
      <reference src="https://www.youtube.com/watch?v=USc-yLHXNUg" type="source" />
    </references>
- </event>
+  </event>
 </events>
