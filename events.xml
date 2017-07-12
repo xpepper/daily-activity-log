@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-07-10">
+    <action type="read">
+      Don’t Know What I Want, But I Know How to Get It: Why knowing what you want in agile development may be an impediment to getting it - Jeff Patton
+    </action>
+    <references>
+      <reference src="http://jpattonassociates.com/dont_know_what_i_want/" type="source" />
+    </references>
+  </event>
   <event date="2017-07-03">
     <action type="read">
       The Lost Promise of Cloud - Brandon Byars, ThoughtWorks
