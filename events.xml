@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-07-03">
+    <action type="read">
+      The Lost Promise of Cloud - Brandon Byars, ThoughtWorks
+    </action>
+    <references>
+      <reference src="https://www.thoughtworks.com/insights/blog/lost-promise-cloud" type="source" />
+    </references>
+  </event>
   <event date="2017-07-02">
     <action type="read">
       One Practical Alternative to Estimates - J.B. Rainsberger @jbrains
