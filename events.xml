@@ -3,6 +3,14 @@
 <events>
   <event date="2017-07-15">
     <action type="watched">
+      The Power of Vulnerability - Brene Brown
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=sXSjc-pbXk4" type="source" />
+    </references>
+  </event>
+  <event date="2017-07-15">
+    <action type="watched">
       "What’s the worst that can happen?" - How authentic connection enables change and innovation - Marc Burgauer
     </action>
     <references>
