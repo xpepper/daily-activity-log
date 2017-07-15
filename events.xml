@@ -9,6 +9,14 @@
       <reference src="https://vimeo.com/107609914" type="source" />
     </references>
   </event>
+  <event date="2017-07-14">
+    <action type="watched">
+      Brené Brown on Blame
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=RZWf2_2L2v8" type="source" />
+    </references>
+  </event>
   <event date="2017-07-10">
     <action type="read">
       Don’t Know What I Want, But I Know How to Get It: why knowing what you want in agile development may be an impediment to getting it - Jeff Patton
