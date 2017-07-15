@@ -3,6 +3,22 @@
 <events>
   <event date="2017-07-15">
     <action type="watched">
+      The power of vulnerability - TED talks, Brene Brown
+    </action>
+    <references>
+      <reference src="https://www.ted.com/talks/brene_brown_on_vulnerability" type="source" />
+    </references>
+  </event>
+  <event date="2017-07-15">
+    <action type="watched">
+      Listening to Shame - TED talks, Brene Brown
+    </action>
+    <references>
+      <reference src="https://www.ted.com/talks/brene_brown_listening_to_shame" type="source" />
+    </references>
+  </event>
+  <event date="2017-07-15">
+    <action type="watched">
       The Power of Vulnerability - Brene Brown
     </action>
     <references>
