@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-07-30">
+    <action type="reading">
+      Serverless Architectures on AWS - Peter Sbarski (Manning)
+    </action>
+    <references>
+      <reference src="https://www.manning.com/books/serverless-architectures-on-aws" type="source" />
+    </references>
+  </event>
+  <event date="2017-08-10">
+    <action type="read">
+      Pairing, Swarming, and Mobbing - Johanna Rothman
+    </action>
+    <references>
+      <reference src="https://www.jrothman.com/mpd/project-management/2016/07/pairing-swarming-and-mobbing/" type="source" />
+    </references>
+  </event>
+  <event date="2017-08-08">
+    <action type="read">
+      An essential guide to the serverless ecosystem
+    </action>
+    <references>
+      <reference src="https://techbeacon.com/essential-guide-serverless-ecosystem" type="source" />
+    </references>
+  </event>
   <event date="2017-07-15">
     <action type="watched">
       The power of vulnerability - TED talks, Brene Brown
