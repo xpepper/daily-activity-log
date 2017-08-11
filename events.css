@@ -1,6 +1,10 @@
 body {
     margin: 0;
     font: 14pt 'Fauna One', sans;
+    background-position: left 46px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/2f/65/1b/2f651b237a7ba779272d8f3dbd4954c8.jpg);
 }
 
 .header {
