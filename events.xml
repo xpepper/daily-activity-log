@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
-  <event date="2017-07-30">
+  <event date="2017-08-12">
     <action type="reading">
-      Serverless Architectures on AWS - Peter Sbarski (Manning)
+      Serverless: A lesson learned. The hard way...
     </action>
     <references>
-      <reference src="https://www.manning.com/books/serverless-architectures-on-aws" type="source" />
+      <reference src="https://sourcebox.be/blog/2017/08/07/serverless-a-lesson-learned-the-hard-way/" type="source" />
     </references>
   </event>
   <event date="2017-08-10">
@@ -23,6 +23,14 @@
     </action>
     <references>
       <reference src="https://techbeacon.com/essential-guide-serverless-ecosystem" type="source" />
+    </references>
+  </event>
+  <event date="2017-07-30">
+    <action type="reading">
+      Serverless Architectures on AWS - Peter Sbarski (Manning)
+    </action>
+    <references>
+      <reference src="https://www.manning.com/books/serverless-architectures-on-aws" type="source" />
     </references>
   </event>
   <event date="2017-07-15">
