@@ -65,6 +65,14 @@
       <reference src="https://www.youtube.com/watch?v=RZWf2_2L2v8" type="source" />
     </references>
   </event>
+  <event date="2017-07-12">
+    <action type="watched">
+      Embrace Uncertainty - Jeff Patton
+    </action>
+    <references>
+      <reference src="https://www.infoq.com/presentations/Uncertainty-Jeff-Patton" type="source" />
+    </references>
+  </event>
   <event date="2017-07-10">
     <action type="read">
       Don’t Know What I Want, But I Know How to Get It: why knowing what you want in agile development may be an impediment to getting it - Jeff Patton
