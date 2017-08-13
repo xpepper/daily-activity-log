@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-08-13">
+    <action type="read">
+      The economics of serverless computing: A real-world test
+    </action>
+    <references>
+      <reference src="https://techbeacon.com/economics-serverless-computing-real-world-test" type="source" />
+    </references>
+  </event>
   <event date="2017-08-12">
-    <action type="reading">
+    <action type="read">
       Serverless: A lesson learned. The hard way...
     </action>
     <references>
