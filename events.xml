@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-08-16">
+    <action type="read">
+      Serverless/Non-Serverless Hybrid Architectures (p.44 of 'What is Serverless?' book)
+    </action>
+    <references>
+      <reference src="http://www.oreilly.com/programming/free/files/what-is-serverless.pdf" type="source" />
+    </references>
+  </event>
+  <event date="2017-08-16">
+    <action type="read">
+      Defining Serverless (parts 1..5) - Mike Roberts
+    </action>
+    <references>
+      <reference src="https://blog.symphonia.io/defining-serverless-part-1-704d72bc8a32" type="source" />
+    </references>
+  </event>
   <event date="2017-08-14">
     <action type="watched">
       Confusion In The Land Of The Serverless - Sam Newman at CraftConf 2017
