@@ -3,6 +3,14 @@
 <events>
   <event date="2017-08-16">
     <action type="read">
+      Our Tack on Effective Change - Antony Marcano
+    </action>
+    <references>
+      <reference src="https://ideas.riverglide.com/my-tack-on-effective-change-70d20520b8a4" type="source" />
+    </references>
+  </event>
+  <event date="2017-08-16">
+    <action type="read">
       Serverless/Non-Serverless Hybrid Architectures (p.44 of 'What is Serverless?' book)
     </action>
     <references>
