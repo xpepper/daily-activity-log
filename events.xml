@@ -11,7 +11,7 @@
   </event>
   <event date="2017-08-16">
     <action type="read">
-      Serverless/Non-Serverless Hybrid Architectures (p.44 of 'What is Serverless?' book)
+      Serverless/Non-Serverless Hybrid Architectures (p.44 of 'What is Serverless?')
     </action>
     <references>
       <reference src="http://www.oreilly.com/programming/free/files/what-is-serverless.pdf" type="source" />
@@ -23,6 +23,14 @@
     </action>
     <references>
       <reference src="https://blog.symphonia.io/defining-serverless-part-1-704d72bc8a32" type="source" />
+    </references>
+  </event>
+  <event date="2017-08-14">
+    <action type="listened">
+      Scrum Master Toolbox Podcast - Sebastian Schürmann looks at the system from different perspectives to understand the system conditions
+    </action>
+    <references>
+      <reference src="http://scrum-master-toolbox.org/2015/06/podcast/sebastian-schurmann-looks-at-the-system-from-different-perspectives-to-understand-the-system-conditions/" type="source" />
     </references>
   </event>
   <event date="2017-08-14">
