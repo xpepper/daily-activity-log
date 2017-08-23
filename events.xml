@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-08-22">
+    <action type="read">
+      The Real Reason We Estimate - Mike Cottmeyer
+    </action>
+    <references>
+      <reference src="https://www.leadingagile.com/2011/09/the-real-reason-we-estimate/" type="source" />
+    </references>
+  </event>
   <event date="2017-08-16">
     <action type="read">
       Our Tack on Effective Change - Antony Marcano
