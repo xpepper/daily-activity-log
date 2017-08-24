@@ -3,6 +3,14 @@
 <events>
   <event date="2017-08-24">
     <action type="read">
+      Writing User Stories
+    </action>
+    <references>
+      <reference src="https://sites.google.com/site/agileskillsprojectwiki/collected-knowledge/ideas-to-refine/writing-user-stories" type="source" />
+    </references>
+  </event>
+  <event date="2017-08-24">
+    <action type="read">
       Essential XP: Card, Conversation, Confirmation - Ron Jeffries
     </action>
     <references>
