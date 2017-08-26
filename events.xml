@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-08-26">
+    <action type="watched">
+      Teresa Amabile: Track Your Small Wins to Motivate Big Accomplishments
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=FJ0rs9ZENgM" type="source" />
+    </references>
+  </event>
   <event date="2017-08-24">
     <action type="read">
       Writing User Stories
