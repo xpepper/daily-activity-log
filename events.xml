@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-08-27">
+    <action type="watched">
+      Splitting user stories -- the hamburger method - Gojko Adzic
+    </action>
+    <references>
+      <reference src="https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/" type="source" />
+    </references>
+  </event>
   <event date="2017-08-26">
     <action type="watched">
       Teresa Amabile: Track Your Small Wins to Motivate Big Accomplishments
