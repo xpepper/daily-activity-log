@@ -10,6 +10,14 @@
     </references>
   </event>
   <event date="2017-08-26">
+    <action type="listened">
+      Scrum Master Toolbox Podcast - Marcus Hammarberg explains his recipe for team success
+    </action>
+    <references>
+      <reference src="http://scrum-master-toolbox.org/2015/09/podcast/marcus-hammarberg-explains-his-recipe-for-team-success/" type="source" />
+    </references>
+  </event>
+  <event date="2017-08-26">
     <action type="watched">
       Teresa Amabile: Track Your Small Wins to Motivate Big Accomplishments
     </action>
