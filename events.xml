@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-08-28">
+    <action type="read">
+      Iterative and Incremental Development: A Brief History
+    </action>
+    <references>
+      <reference src="https://www.cs.umd.edu/~basili/publications/journals/J90.pdf" type="source" />
+    </references>
+  </event>
   <event date="2017-08-27">
     <action type="watched">
       Splitting user stories -- the hamburger method - Gojko Adzic
