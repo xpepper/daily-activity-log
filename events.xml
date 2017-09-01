@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-09-01">
+    <action type="read">
+      "Business Agile": Built Upon Sand - Ron Jeffries
+    </action>
+    <references>
+      <reference src="http://ronjeffries.com/articles/017-08ff/sand/" type="source" />
+    </references>
+  </event>
   <event date="2017-08-28">
     <action type="read">
       Iterative and Incremental Development: A Brief History
