@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-09-03">
+    <action type="read">
+      The Fist of Five a voting and consensus building technique
+    </action>
+    <references>
+      <reference src="http://www.journey-to-better.com/2017/04/the-fist-of-five-voting-and-consensus.html" type="source" />
+    </references>
+  </event>
+  <event date="2017-09-03">
+    <action type="read">
+      40 Ways to Invest in More Resilient Teams
+    </action>
+    <references>
+      <reference src="https://hackernoon.com/40-ways-to-invest-in-more-resilient-teams-c2ac7d008591" type="source" />
+    </references>
+  </event>
+  <event date="2017-09-02">
+    <action type="read">
+      The Definitive Guide to Google Snippets
+    </action>
+    <references>
+      <reference src="http://blog.idonethis.com/google-snippets-internal-tool/" type="source" />
+    </references>
+  </event>
   <event date="2017-09-01">
     <action type="read">
       "Business Agile": Built Upon Sand - Ron Jeffries
