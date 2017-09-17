@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-09-17">
+    <action type="read">
+      7 truths about Agile and Scrum that people don't want to hear. Part 2 of 7: Developer Creativity - Kai Gilb
+    </action>
+    <references>
+      <reference src="http://concepts.gilb.com/blogpost120-7-truths-about-Agile-and-Scrum-that-people-don-t-want-to-hear-Part-2-of-7-Developer-Creativity" type="source" />
+    </references>
+  </event>
   <event date="2017-09-10">
     <action type="read">
       It seams open: OCP and Seams - Jacopo Franzoi
