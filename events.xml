@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-09-18">
+    <action type="read">
+      Breaking Up the Behemoth - Sandi Metz
+    </action>
+    <references>
+      <reference src="https://www.sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth" type="source" />
+    </references>
+  </event>
+  <event date="2017-09-18">
+    <action type="read">
+      DesignStaminaHypothesis - Martin Fowler
+    </action>
+    <references>
+      <reference src="https://martinfowler.com/bliki/DesignStaminaHypothesis.html" type="source" />
+    </references>
+  </event>
   <event date="2017-09-17">
     <action type="read">
       7 truths about Agile and Scrum that people don't want to hear. Part 2 of 7: Developer Creativity - Kai Gilb
