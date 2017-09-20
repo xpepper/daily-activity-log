@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-09-20">
+    <action type="read">
+      Getting Empirical about Refactoring - Michael Feathers
+    </action>
+    <references>
+      <reference src="https://www.stickyminds.com/article/getting-empirical-about-refactoring" type="source" />
+    </references>
+  </event>
   <event date="2017-09-18">
     <action type="read">
       Breaking Up the Behemoth - Sandi Metz
