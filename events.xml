@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-09-21">
+    <action type="read">
+      No Frameworks, Part 1 - Matteo Vaccari
+    </action>
+    <references>
+      <reference src="http://matteo.vaccari.name/blog/archives/1019" type="source" />
+    </references>
+  </event>
   <event date="2017-09-20">
     <action type="read">
       Getting Empirical about Refactoring - Michael Feathers
