@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-09-24">
+    <action type="read">
+      No. Agile Does Not Scale - Jurgen Appelo
+    </action>
+    <references>
+      <reference src="https://medium.com/@jurgenappelo/no-agile-does-not-scale-98df99da3ff3" type="source" />
+    </references>
+  </event>
   <event date="2017-09-23">
     <action type="read">
       Visualising Test Terminology - Nat Pryce
