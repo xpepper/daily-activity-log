@@ -3,6 +3,14 @@
 <events>
   <event date="2017-09-27">
     <action type="read">
+      What Does TDD Give Me in terms of a Design Activity? - Dave Schinkel
+    </action>
+    <references>
+      <reference src="https://gist.github.com/xpepper/c45c4a8e160263f9de4de60321081131" type="source" />
+    </references>
+  </event>
+  <event date="2017-09-27">
+    <action type="read">
       Classicist vs. Mockist Test-Driven Development - Ian Cooper
     </action>
     <references>
