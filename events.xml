@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-09-27">
+    <action type="read">
+      Classicist vs. Mockist Test-Driven Development - Ian Cooper
+    </action>
+    <references>
+      <reference src="http://codebetter.com/iancooper/2008/02/04/classicist-vs-mockist-test-driven-development/" type="source" />
+    </references>
+  </event>
+  <event date="2017-09-27">
+    <action type="read">
+      TDD with mocks and spies - Luca Minudel
+    </action>
+    <references>
+      <reference src="http://blogs.ugidotnet.org/luKa/archive/2011/01/06/tdd-with-mocks-or-spies.aspx" type="source" />
+    </references>
+  </event>
   <event date="2017-09-24">
     <action type="read">
       No. Agile Does Not Scale - Jurgen Appelo
