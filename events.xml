@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-09-28">
+    <action type="read">
+      Stop Giving Away Your Greatest Advantage at Work - J. B. Rainsberger
+    </action>
+    <references>
+      <reference src="http://us2.campaign-archive1.com/?u=80ca60ec48ef77dfaa1f38943&amp;id=14e1de39e4&amp;e=957b3c2473" type="source" />
+    </references>
+  </event>
   <event date="2017-09-27">
     <action type="read">
       What Does TDD Give Me in terms of a Design Activity? - Dave Schinkel
