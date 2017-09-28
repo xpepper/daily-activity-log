@@ -33,6 +33,14 @@
       <reference src="http://blogs.ugidotnet.org/luKa/archive/2011/01/06/tdd-with-mocks-or-spies.aspx" type="source" />
     </references>
   </event>
+  <event date="2017-09-25">
+    <action type="read">
+      Your Daily Scrum is Killing Your Team - J. B. Rainsberger
+    </action>
+    <references>
+      <reference src="http://blog.jbrains.ca/permalink/your-daily-scrum-is-killing-your-team" type="source" />
+    </references>
+  </event>
   <event date="2017-09-24">
     <action type="read">
       No. Agile Does Not Scale - Jurgen Appelo
