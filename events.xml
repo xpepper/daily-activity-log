@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-10-2">
+    <action type="watched">
+      Outside In TDD part I - Sandro Mancuso
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=XHnuMjah6ps" type="source" />
+    </references>
+  </event>
+  <event date="2017-10-1">
+    <action type="read">
+      Why I Use a Paper Kanban Board - Johanna Rothman
+    </action>
+    <references>
+      <reference src="https://www.jrothman.com/mpd/project-management/2017/02/why-i-use-a-paper-kanban-board/" type="source" />
+    </references>
+  </event>
+  <event date="2017-10-1">
+    <action type="read">
+      Visualize Your Work So You Can Say No - Johanna Rothman
+    </action>
+    <references>
+      <reference src="https://www.jrothman.com/mpd/portfolio-management/2017/02/visualize-your-work-so-you-can-say-no/" type="source" />
+    </references>
+  </event>
   <event date="2017-09-28">
     <action type="read">
       Stop Giving Away Your Greatest Advantage at Work - J. B. Rainsberger
