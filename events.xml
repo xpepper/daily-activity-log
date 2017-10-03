@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-10-3">
+    <action type="watched">
+      Outside In TDD part III - Sandro Mancuso
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=R9OAt9AOrzI" type="source" />
+    </references>
+  </event>
+  <event date="2017-10-3">
+    <action type="watched">
+      Outside In TDD part II - Sandro Mancuso
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=gs0rqDdz3ko" type="source" />
+    </references>
+  </event>
   <event date="2017-10-2">
     <action type="watched">
       Outside In TDD part I - Sandro Mancuso
