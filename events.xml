@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-10-5">
+    <action type="listened">
+      Scrum Master Toolbox Podcast - Jeff Campbell shares 2 transformative lessons he learned in the same company
+    </action>
+    <references>
+      <reference src="http://scrum-master-toolbox.org/2015/11/podcast/jeff-campbell-shares-2-transformative-lessons-he-learned-in-the-same-company/" type="source" />
+    </references>
+  </event>
   <event date="2017-10-3">
     <action type="watched">
       Outside In TDD part III - Sandro Mancuso
