@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-10-12">
+    <action type="watched">
+      Refactoring with IntelliJ IDEA - Bill Wake refactors the Gilded Rose Kata
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=ITXgUB2GrLY" type="source" />
+    </references>
+  </event>
   <event date="2017-10-5">
     <action type="listened">
       Scrum Master Toolbox Podcast - Jeff Campbell shares 2 transformative lessons he learned in the same company
