@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-10-21">
+    <action type="read">
+      Little's Law – the basis of Lean and Kanban
+    </action>
+    <references>
+      <reference src="http://itsadeliverything.com/littles-law-the-basis-of-lean-and-kanban" type="source" />
+    </references>
+  </event>
   <event date="2017-10-19">
     <action type="read">
       You Can’t Buy DevOps
