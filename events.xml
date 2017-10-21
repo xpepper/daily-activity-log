@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
-  <event date="2017-10-10">
+  <event date="2017-10-19">
     <action type="read">
       You Can’t Buy DevOps
     </action>
