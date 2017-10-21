@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-10-10">
+    <action type="read">
+      You Can’t Buy DevOps
+    </action>
+    <references>
+      <reference src="https://www.stickyminds.com/article/you-can-t-buy-devops" type="source" />
+    </references>
+  </event>
   <event date="2017-10-12">
     <action type="watched">
       Refactoring with IntelliJ IDEA - Bill Wake refactors the Gilded Rose Kata
