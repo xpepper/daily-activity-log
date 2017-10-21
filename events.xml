@@ -17,6 +17,30 @@
       <reference src="https://www.stickyminds.com/article/you-can-t-buy-devops" type="source" />
     </references>
   </event>
+  <event date="2017-10-18">
+    <action type="read">
+      Cycle Time Revisited
+    </action>
+    <references>
+      <reference src="https://connected-knowledge.com/2015/05/26/cycle-time-revisited/" type="source" />
+    </references>
+  </event>
+  <event date="2017-10-18">
+    <action type="read">
+      Lead Time vs Cycle Time
+    </action>
+    <references>
+      <reference src="https://leanandkanban.wordpress.com/2009/04/18/lead-time-vs-cycle-time/" type="source" />
+    </references>
+  </event>
+  <event date="2017-10-18">
+    <action type="read">
+      Kanban: Definition of Lead Time and Cycle Time
+    </action>
+    <references>
+      <reference src="https://stefanroock.wordpress.com/2010/03/02/kanban-definition-of-lead-time-and-cycle-time/" type="source" />
+    </references>
+  </event>
   <event date="2017-10-12">
     <action type="watched">
       Refactoring with IntelliJ IDEA - Bill Wake refactors the Gilded Rose Kata
