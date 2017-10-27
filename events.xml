@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-10-27">
+    <action type="watched">
+      ABE15 Jeffery Campbell: The Inflow
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=n9omZeU09lU" type="source" />
+    </references>
+  </event>
   <event date="2017-10-23">
     <action type="read">
       Lead time versus Cycle Time – Untangling the confusion - Steven Thomas
