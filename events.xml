@@ -2,8 +2,16 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2017-10-27">
+    <action type="read">
+      One Practical Alternative to Estimates - J. B. Rainsberger
+    </action>
+    <references>
+      <reference src="http://blog.jbrains.ca/permalink/one-practical-alternative-to-estimates" type="source" />
+    </references>
+  </event>
+  <event date="2017-10-27">
     <action type="watched">
-      ABE15 Jeffery Campbell: The Inflow
+      ABE15 Jeff Campbell: The Inflow
     </action>
     <references>
       <reference src="https://www.youtube.com/watch?v=n9omZeU09lU" type="source" />
