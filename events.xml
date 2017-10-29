@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-10-29">
+    <action type="read">
+      Step Away from the Tools - Liz Keogh
+    </action>
+    <references>
+      <reference src="https://lizkeogh.com/2011/03/04/step-away-from-the-tools/" type="source" />
+    </references>
+  </event>
   <event date="2017-10-27">
     <action type="read">
       One Practical Alternative to Estimates - J. B. Rainsberger
