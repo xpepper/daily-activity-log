@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-11-5">
+    <action type="read">
+      Coupling and Cohesion - Kent Beck
+    </action>
+    <references>
+      <reference src="https://web.archive.org/web/20110806101727/http://www.threeriversinstitute.org/blog/?p=104" type="source" />
+    </references>
+  </event>
   <event date="2017-10-29">
     <action type="read">
       Step Away from the Tools - Liz Keogh
