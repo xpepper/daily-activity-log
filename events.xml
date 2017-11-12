@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-11-12">
+    <action type="read">
+      How to Lie with Statistics - Darrell Huff
+    </action>
+    <references>
+      <reference src="https://www.amazon.it/dp/B00351DSX2/" type="source" />
+    </references>
+  </event>
   <event date="2017-11-5">
     <action type="read">
       Coupling and Cohesion - Kent Beck
