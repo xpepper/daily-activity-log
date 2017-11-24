@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-11-24">
+    <action type="watched">
+      Mob Programming: A Whole Team Approach • Woody Zuill • GOTO 2017
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=SHOVVnRB4h0" type="source" />
+    </references>
+  </event>
   <event date="2017-11-12">
     <action type="read">
       How to Lie with Statistics - Darrell Huff
