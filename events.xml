@@ -9,6 +9,14 @@
       <reference src="http://www.carlopescio.com/2012/12/ask-not-what-object-is-but.html" type="source" />
     </references>
   </event>
+  <event date="2017-11-26">
+    <action type="read">
+      Chapters 1-7 of Software Architecture for Developers, by Simon Brown
+    </action>
+    <references>
+      <reference src="https://leanpub.com/software-architecture-for-developers" type="source" />
+    </references>
+  </event>
   <event date="2017-11-24">
     <action type="watched">
       Mob Programming: A Whole Team Approach • Woody Zuill • GOTO 2017
