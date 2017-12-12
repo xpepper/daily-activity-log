@@ -99,7 +99,7 @@
   </event>
   <event date="2017-10-19">
     <action type="read">
-      You Can’t Buy DevOps
+      You Can’t Buy DevOps - Matthew Heusser
     </action>
     <references>
       <reference src="https://www.stickyminds.com/article/you-can-t-buy-devops" type="source" />
@@ -107,7 +107,7 @@
   </event>
   <event date="2017-10-18">
     <action type="read">
-      Cycle Time Revisited
+      Cycle Time Revisited - Alexei Zheglov
     </action>
     <references>
       <reference src="https://connected-knowledge.com/2015/05/26/cycle-time-revisited/" type="source" />
@@ -115,7 +115,7 @@
   </event>
   <event date="2017-10-18">
     <action type="read">
-      Lead Time vs Cycle Time
+      Lead Time vs Cycle Time - David Joyce
     </action>
     <references>
       <reference src="https://leanandkanban.wordpress.com/2009/04/18/lead-time-vs-cycle-time/" type="source" />
@@ -123,7 +123,7 @@
   </event>
   <event date="2017-10-18">
     <action type="read">
-      Kanban: Definition of Lead Time and Cycle Time
+      Kanban: Definition of Lead Time and Cycle Time - Stefan Roock
     </action>
     <references>
       <reference src="https://stefanroock.wordpress.com/2010/03/02/kanban-definition-of-lead-time-and-cycle-time/" type="source" />
