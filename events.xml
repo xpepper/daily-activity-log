@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-12-10">
+    <action type="read">
+      Chapter 1 of Kotlin in Action
+    </action>
+    <references>
+      <reference src="https://www.manning.com/books/kotlin-in-action" type="source" />
+    </references>
+  </event>
+  <event date="2017-12-9">
+    <action type="watched">
+      Kotlin from the Ground Up - Justin Lee
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=mcZvp0OH7p8" type="source" />
+    </references>
+  </event>
   <event date="2017-12-5">
     <action type="read">
       Ask not what an object is, but... - Carlo Pescio
