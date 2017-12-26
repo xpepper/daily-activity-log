@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-12-26">
+    <action type="watched">
+      42 IntelliJ IDEA Tips and Tricks - Hadi Hariri
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=eq3KiAH4IBI" type="source" />
+    </references>
+  </event>
   <event date="2017-12-10">
     <action type="read">
       Chapter 1 of Kotlin in Action
