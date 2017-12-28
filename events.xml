@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-12-28">
+    <action type="listened">
+      Scrum Master Toolbox Podcast - Jeff Campbell on the Mathematical Proof of Value for Scrum Masters
+    </action>
+    <references>
+      <reference src="http://scrum-master-toolbox.org/2015/11/podcast/jeff-campbell-on-the-mathematical-proof-of-value-for-scrum-masters/" type="source" />
+    </references>
+  </event>
   <event date="2017-12-26">
     <action type="watched">
       42 IntelliJ IDEA Tips and Tricks - Hadi Hariri
