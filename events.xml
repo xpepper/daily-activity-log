@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-1-1">
+    <action type="watched">
+      Better Project Forecasts without Estimates – The Monte Carlo - Adrian Fittolani
+    </action>
+    <references>
+      <reference src="https://www.infoq.com/presentations/monte-carlo" type="source" />
+    </references>
+  </event>
+  <event date="2017-12-31">
+    <action type="read">
+      Agile Project Forecasting – The Monte Carlo Method - Adrian Fittolani
+    </action>
+    <references>
+      <reference src="http://scrumage.com/blog/2015/09/agile-project-forecasting-the-monte-carlo-method/" type="source" />
+    </references>
+  </event>
   <event date="2017-12-28">
     <action type="listened">
       Scrum Master Toolbox Podcast - Jeff Campbell on the Mathematical Proof of Value for Scrum Masters
