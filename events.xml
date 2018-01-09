@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-1-7">
+    <action type="read">
+      #NoEstimates Project Planning Using Monte Carlo Simulation
+    </action>
+    <references>
+      <reference src="https://www.infoq.com/articles/noestimates-monte-carlo/" type="source" />
+    </references>
+  </event>
   <event date="2018-1-1">
     <action type="watched">
       Better Project Forecasts without Estimates – The Monte Carlo - Adrian Fittolani
