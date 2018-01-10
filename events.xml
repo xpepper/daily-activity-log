@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-1-8">
+    <action type="listened">
+      Scrum Master Toolbox Podcast - Jeff Campbell describes one key Systems Thinking tool
+    </action>
+    <references>
+      <reference src="http://scrum-master-toolbox.org/2015/11/podcast/jeff-campbell-describes-one-key-systems-thinking-tool/" type="source" />
+    </references>
+  </event>
   <event date="2018-1-7">
     <action type="read">
       #NoEstimates Project Planning Using Monte Carlo Simulation
