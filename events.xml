@@ -17,6 +17,14 @@
       <reference src="https://www.infoq.com/articles/noestimates-monte-carlo/" type="source" />
     </references>
   </event>
+  <event date="2018-1-2">
+    <action type="read">
+      Evidence Based Scheduling - Joel On Software
+    </action>
+    <references>
+      <reference src="https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/" type="source" />
+    </references>
+  </event>
   <event date="2018-1-1">
     <action type="watched">
       Better Project Forecasts without Estimates – The Monte Carlo - Adrian Fittolani
