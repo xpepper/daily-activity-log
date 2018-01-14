@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-1-13">
+    <action type="read">
+      It’s the People, Not the System - Pawel Brodzinski
+    </action>
+    <references>
+      <reference src="http://brodzinski.com/2013/04/people-not-system.html" type="source" />
+    </references>
+  </event>
   <event date="2018-1-8">
     <action type="listened">
       Scrum Master Toolbox Podcast - Jeff Campbell describes one key Systems Thinking tool
