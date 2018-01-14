@@ -3,6 +3,14 @@
 <events>
   <event date="2018-1-13">
     <action type="read">
+      CIO Voices: Volkswagen’s Hofmann Explains His Principles of Digital Transformation
+    </action>
+    <references>
+      <reference src="http://www.cetusnews.com/business/CIO-Voices--Volkswagen%E2%80%99s-Hofmann-Explains-His-Principles-of-Digital-Transformation.Sy-d-ufm-G.html" type="source" />
+    </references>
+  </event>
+  <event date="2018-1-13">
+    <action type="read">
       It’s the People, Not the System - Pawel Brodzinski
     </action>
     <references>
