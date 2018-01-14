@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-1-14">
+    <action type="watched">
+      Kotlin for Java Programmers by Venkat Subramaniam
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=7EVXypZDOos" type="source" />
+    </references>
+  </event>
   <event date="2018-1-13">
     <action type="read">
       CIO Voices: Volkswagen’s Hofmann Explains His Principles of Digital Transformation
