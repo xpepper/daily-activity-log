@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-1-17">
+    <action type="watched">
+      #NoEstimates Project Planning using Monte Carlo simulation - Dimitar Bakardzhiev
+    </action>
+    <references>
+      <reference src="https://vimeo.com/107763575" type="source" />
+    </references>
+  </event>
   <event date="2018-1-14">
     <action type="watched">
       Kotlin for Java Programmers by Venkat Subramaniam
