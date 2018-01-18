@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2018-1-17">
+    <action type="read">
+      #NoEstimates Project Planning using Monte Carlo simulation - Dimitar Bakardzhiev (slides)
+    </action>
+    <references>
+      <reference src="https://www.slideshare.net/dimiterbak/noestimates-project-planning-using-monte-carlo-simulation" type="source" />
+    </references>
+  </event>
+  <event date="2018-1-17">
     <action type="watched">
       #NoEstimates Project Planning using Monte Carlo simulation - Dimitar Bakardzhiev
     </action>
