@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-1-20">
+    <action type="read">
+      3 Metrics for Reporting an Agile Pilot to Top Management: customer feedback, release burnup and happy index
+    </action>
+    <references>
+      <reference src="http://agiletrail.com/2011/09/12/how-to-track-the-teams-mood-with-a-niko-niko-calendar" type="source" />
+    </references>
+  </event>
   <event date="2018-1-17">
     <action type="read">
       #NoEstimates Project Planning using Monte Carlo simulation - Dimitar Bakardzhiev (slides)
