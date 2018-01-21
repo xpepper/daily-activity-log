@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-1-21">
+    <action type="read">
+      Cumulative Flow Diagram - Pawel Brodzinski
+    </action>
+    <references>
+      <reference src="http://brodzinski.com/2013/07/cumulative-flow-diagram.html" type="source" />
+    </references>
+  </event>
   <event date="2018-1-20">
     <action type="watched">
       A Random Walk and Monte Carlo Simulation || Python Tutorial || Socratica - Learn Python Programming
