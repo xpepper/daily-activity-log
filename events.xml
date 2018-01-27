@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2018-1-27">
+    <action type="watched">
+      Extreme Programming 20 years later by Kent Beck
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=cGuTmOUdFbo" type="source" />
+    </references>
+  </event>
+  <event date="2018-1-27">
     <action type="read">
       What Exactly is the Agile Mindset? - Susan McIntosh
     </action>
