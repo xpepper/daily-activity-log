@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2018-1-27">
+    <action type="read">
+      6 Things Everyone Needs to Know About Agile - Jason Little
+    </action>
+    <references>
+      <reference src="https://www.linkedin.com/pulse/6-things-everyone-needs-know-agile-jason-little/" type="source" />
+    </references>
+  </event>
+  <event date="2018-1-27">
     <action type="watched">
       Extreme Programming 20 years later by Kent Beck
     </action>
