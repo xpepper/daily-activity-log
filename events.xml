@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-2-4">
+    <action type="watched">
+      Impact Mapping with Innovation Games - Gojko Adzic (Pavia, Italian Agile Day 2016)
+    </action>
+    <references>
+      <reference src="https://vimeo.com/195949530" type="source" />
+    </references>
+  </event>
   <event date="2018-1-27">
     <action type="read">
       6 Things Everyone Needs to Know About Agile - Jason Little
