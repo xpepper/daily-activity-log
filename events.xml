@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-2-18">
+    <action type="watched">
+      Responsive design e analisi XP - Matteo Vaccari (Roma, Codemotion 2013)
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=4L9aL_W-Uo0" type="source" />
+    </references>
+  </event>
+  <event date="2018-2-15">
+    <action type="read">
+      The Product Development Triathlon - Kent Beck
+    </action>
+    <references>
+      <reference src="https://www.facebook.com/notes/kent-beck/the-product-development-triathlon/1215075478525314/" type="source" />
+    </references>
+  </event>
+  <event date="2018-2-14">
+    <action type="read">
+      Cost of Coupling Versus Cost of De-coupling - Kent Beck
+    </action>
+    <references>
+      <reference src="https://www.facebook.com/notes/kent-beck/cost-of-coupling-versus-cost-of-de-coupling/1578239345542257/" type="source" />
+    </references>
+  </event>
   <event date="2018-2-4">
     <action type="watched">
       Impact Mapping with Innovation Games - Gojko Adzic (Pavia, Italian Agile Day 2016)
