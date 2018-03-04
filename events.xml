@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-2-25">
+    <action type="read">
+      Le retrospettive nella letteratura corrente - Pierluigi Pugliese
+    </action>
+    <references>
+      <reference src="http://www.mokabyte.it/2014/05/retrospective-2/" type="source" />
+    </references>
+  </event>
+  <event date="2018-2-25">
+    <action type="read">
+      La retrospettiva come strumento per il miglioramento continuo - Pierluigi Pugliese
+    </action>
+    <references>
+      <reference src="http://www.mokabyte.it/2014/04/retrospective-1/" type="source" />
+    </references>
+  </event>
   <event date="2018-2-18">
     <action type="watched">
       Responsive design e analisi XP - Matteo Vaccari (Roma, Codemotion 2013)
