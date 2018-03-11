@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-3-11">
+    <action type="read">
+      The Satir Change Model - Steven M. Smith
+    </action>
+    <references>
+      <reference src="https://stevenmsmith.com/ar-satir-change-model/" type="source" />
+    </references>
+  </event>
+  <event date="2018-3-08">
+    <action type="read">
+      SOLID principles and TDD - Emily Bache
+    </action>
+    <references>
+      <reference src="http://coding-is-like-cooking.info/2012/09/solid-principles-and-tdd/" type="source" />
+    </references>
+  </event>
+  <event date="2018-3-07">
+    <action type="read">
+      Agile is Not for Everyone - Johanna Rothman
+    </action>
+    <references>
+      <reference src="https://www.jrothman.com/mpd/agile/2012/12/agile-is-not-for-everyone/" type="source" />
+    </references>
+  </event>
+  <event date="2018-3-06">
+    <action type="read">
+      RE: Incredible XP - Kent Beck 1999
+    </action>
+    <references>
+      <reference src="https://www.ibm.com/developerworks/rational/archives/otug/hypermail/9903/0646.html" type="source" />
+    </references>
+  </event>
   <event date="2018-2-25">
     <action type="read">
       Le retrospettive nella letteratura corrente - Pierluigi Pugliese
