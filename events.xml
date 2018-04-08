@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-3-29">
+    <action type="listened">
+      Scrum Master Toolbox Podcast - Alberto Brandolini interview week (five episodes)
+    </action>
+    <references>
+      <reference src="https://scrum-master-toolbox.org/2016/01/podcast/alberto-brandolini-talks-about-how-important-it-is-to-define-how-your-assignment-starts/" type="source" />
+    </references>
+  </event>
   <event date="2018-3-11">
     <action type="read">
       The Satir Change Model - Steven M. Smith
