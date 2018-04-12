@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-4-12">
+    <action type="listened">
+      DRY is about Knowledge - Mathias Verraes
+    </action>
+    <references>
+      <reference src="http://verraes.net/2014/08/dry-is-about-knowledge/" type="source" />
+    </references>
+  </event>
   <event date="2018-3-29">
     <action type="listened">
       Scrum Master Toolbox Podcast - Alberto Brandolini interview week (five episodes)
