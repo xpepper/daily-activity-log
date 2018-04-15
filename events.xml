@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-4-13">
+    <action type="read">
+      The Practical Test Pyramid - Ham Vocke
+    </action>
+    <references>
+      <reference src="https://martinfowler.com/articles/practical-test-pyramid.html" type="source" />
+    </references>
+  </event>
   <event date="2018-4-12">
-    <action type="listened">
+    <action type="read">
       DRY is about Knowledge - Mathias Verraes
     </action>
     <references>
