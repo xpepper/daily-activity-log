@@ -3,6 +3,14 @@
 <events>
   <event date="2018-4-22">
     <action type="read">
+      What I’m talking about when I talk about TDD - Uberto Barbini
+    </action>
+    <references>
+      <reference type="source" src="https://medium.com/@ramtop/what-im-talking-about-when-i-talk-about-tdd-546a383468be" />
+    </references>
+  </event>
+  <event date="2018-4-22">
+    <action type="read">
       Design Pressure - Kelly Sutton
     </action>
     <references>
