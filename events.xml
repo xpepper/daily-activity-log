@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-4-22">
+    <action type="read">
+      TDD "Isn't About Testing" Revisited - J. B. Rainsberger
+    </action>
+    <references>
+      <reference src="https://blog.jbrains.ca/permalink/tdd-isnt-about-testing-revisited" type="source" />
+    </references>
+  </event>
   <event date="2018-4-13">
     <action type="read">
       The Practical Test Pyramid - Ham Vocke
