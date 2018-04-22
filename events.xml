@@ -3,6 +3,14 @@
 <events>
   <event date="2018-4-22">
     <action type="read">
+      Design Pressure - Kelly Sutton
+    </action>
+    <references>
+      <reference src="https://kellysutton.com/2017/04/18/design-pressure.html" type="source" />
+    </references>
+  </event>
+  <event date="2018-4-22">
+    <action type="read">
       TDD "Isn't About Testing" Revisited - J. B. Rainsberger
     </action>
     <references>
