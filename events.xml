@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-4-25">
+    <action type="read">
+      A Cultural Fit - Adam Knight
+    </action>
+    <references>
+      <reference type="source" src="http://www.a-sisyphean-task.com/2015/04/a-cultural-fit.html" />
+    </references>
+  </event>
   <event date="2018-4-22">
     <action type="read">
-      What I’m talking about when I talk about TDD - Uberto Barbini
+      What I'm talking about when I talk about TDD - Uberto Barbini
     </action>
     <references>
       <reference type="source" src="https://medium.com/@ramtop/what-im-talking-about-when-i-talk-about-tdd-546a383468be" />
