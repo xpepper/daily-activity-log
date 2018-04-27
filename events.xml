@@ -3,6 +3,14 @@
 <events>
   <event date="2018-4-27">
     <action type="read">
+      51 Interview Questions You Should Be Asking
+    </action>
+    <references>
+      <reference type="source" src="https://www.themuse.com/advice/51-interview-questions-you-should-be-asking" />
+    </references>
+  </event>
+  <event date="2018-4-27">
+    <action type="read">
       The Best Interview Questions to Ask if You Want the Truth About Company Culture
     </action>
     <references>
