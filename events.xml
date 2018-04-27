@@ -3,6 +3,14 @@
 <events>
   <event date="2018-4-27">
     <action type="read">
+      How we do things around here in order to succeed - Michael Sahota
+    </action>
+    <references>
+      <reference type="source" src="http://agilitrix.com/2010/08/how-we-do-things-around-here-in-order-to-succeed/" />
+    </references>
+  </event>
+  <event date="2018-4-27">
+    <action type="read">
       51 Interview Questions You Should Be Asking
     </action>
     <references>
