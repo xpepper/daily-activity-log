@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-4-27">
+    <action type="read">
+      The Best Interview Questions to Ask if You Want the Truth About Company Culture
+    </action>
+    <references>
+      <reference type="source" src="https://www.themuse.com/advice/the-best-interview-questions-to-ask-if-you-want-the-truth-about-company-culture" />
+    </references>
+  </event>
   <event date="2018-4-25">
     <action type="read">
       A Cultural Fit - Adam Knight
