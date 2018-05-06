@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-5-6">
+    <action type="read">
+      A Mob Programming Exercise for Well-Crafted Design - Sandro Mancuso
+    </action>
+    <references>
+      <reference type="source" src="https://dzone.com/articles/practicing-well-crafted-design" />
+    </references>
+  </event>
   <event date="2018-4-27">
     <action type="read">
       How we do things around here in order to succeed - Michael Sahota
