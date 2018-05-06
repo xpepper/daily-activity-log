@@ -3,6 +3,14 @@
 <events>
   <event date="2018-5-6">
     <action type="read">
+      Real Agile Change - Joshua Kerievsky
+    </action>
+    <references>
+      <reference type="source" src="https://www.linkedin.com/pulse/real-agile-change-joshua-kerievsky/" />
+    </references>
+  </event>
+  <event date="2018-5-6">
+    <action type="read">
       A Mob Programming Exercise for Well-Crafted Design - Sandro Mancuso
     </action>
     <references>
@@ -11,7 +19,7 @@
   </event>
   <event date="2018-4-27">
     <action type="read">
-      How we do things around here in order to succeed - Michael Sahota
+      How we do things around here in order to succeed - Michael Sahota #culture
     </action>
     <references>
       <reference type="source" src="http://agilitrix.com/2010/08/how-we-do-things-around-here-in-order-to-succeed/" />
