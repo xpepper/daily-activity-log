@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-5-16">
+    <action type="listened">
+      Scrum Master Toolbox Podcast - Woody Zuill interview week (five episodes)
+    </action>
+    <references>
+      <reference type="source" src="https://scrum-master-toolbox.org/2016/03/podcast/woody-zuill-on-the-tino-pattern-team-in-name-only/" />
+    </references>
+  </event>
   <event date="2018-5-15">
     <action type="read">
       7 Practical Ways to Reduce Bias in Your Hiring Process - Rebecca Knight
