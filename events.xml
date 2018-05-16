@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-5-15">
+    <action type="read">
+      7 Practical Ways to Reduce Bias in Your Hiring Process - Rebecca Knight
+    </action>
+    <references>
+      <reference type="source" src="https://hbr.org/2017/06/7-practical-ways-to-reduce-bias-in-your-hiring-process" />
+    </references>
+  </event>
   <event date="2018-5-12">
     <action type="read">
       MVC, Delivery Mechanism and Domain Model - Sandro Mancuso
