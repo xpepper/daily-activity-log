@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-5-17">
+    <action type="read">
+      How to write a Repository - Phil Calçado
+    </action>
+    <references>
+      <reference type="source" src="http://philcalcado.com/2010/12/23/how_to_write_a_repository.html" />
+    </references>
+  </event>
   <event date="2018-5-16">
     <action type="listened">
       Scrum Master Toolbox Podcast - Woody Zuill interview week (five episodes)
