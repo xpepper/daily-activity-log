@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-5-19">
+    <action type="read">
+      5 Reasons Why N26 is Moving to Kotlin - Pat Kua
+    </action>
+    <references>
+      <reference type="source" src="https://mag.n26.com/5-reasons-why-n26-is-moving-to-kotlin-f920b184ab58" />
+    </references>
+  </event>
   <event date="2018-5-17">
     <action type="read">
       How to write a Repository - Phil Calçado
