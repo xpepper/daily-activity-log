@@ -9,6 +9,14 @@
       <reference type="source" src="https://mag.n26.com/5-reasons-why-n26-is-moving-to-kotlin-f920b184ab58" />
     </references>
   </event>
+  <event date="2018-5-18">
+    <action type="watched">
+      ONION ARCHITECTURE with PURE FUNCTIONAL PROGRAMMING sauce - Matteo Baglini
+    </action>
+    <references>
+      <reference type="source" src="https://gitpitch.com/matteobaglini/onion-with-functional-programming/19-may-jugday-trento#/" />
+    </references>
+  </event>
   <event date="2018-5-17">
     <action type="read">
       How to write a Repository - Phil Calçado
