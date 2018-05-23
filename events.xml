@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-5-23">
+    <action type="read">
+      How to ditch your ORM - Kenneth Truyers
+    </action>
+    <references>
+      <reference type="source" src="https://www.kenneth-truyers.net/2014/11/15/how-to-ditch-your-orm/" />
+    </references>
+  </event>
   <event date="2018-5-19">
     <action type="read">
       5 Reasons Why N26 is Moving to Kotlin - Pat Kua
