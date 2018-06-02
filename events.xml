@@ -9,6 +9,14 @@
       <reference type="source" src="http://hilton.org.uk/blog/microservices-correlation-id" />
     </references>
   </event>
+  <event date="2018-6-2">
+    <action type="read">
+      Web API Design: The Missing Link - Best Practices for Crafting Interfaces that Developers Love
+    </action>
+    <references>
+      <reference type="source" src="https://pages.apigee.com/rs/351-WXY-166/images/Web-design-the-missing-link-ebook-2016-11.pdf" />
+    </references>
+  </event>
   <event date="2018-5-25">
     <action type="read">
       Event Bus Implementation(s) - Mustafa Turan
