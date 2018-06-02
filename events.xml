@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-6-2">
+    <action type="read">
+      Correlation IDs for microservices architectures - Peter Hilton
+    </action>
+    <references>
+      <reference type="source" src="http://hilton.org.uk/blog/microservices-correlation-id" />
+    </references>
+  </event>
   <event date="2018-5-25">
     <action type="read">
       Event Bus Implementation(s) - Mustafa Turan
     </action>
     <references>
-      <reference type="source" src="https://hackernoon.com/event-bus-implementation-s-d2854a9fafd5  " />
+      <reference type="source" src="https://hackernoon.com/event-bus-implementation-s-d2854a9fafd5" />
     </references>
   </event>
   <event date="2018-5-23">
