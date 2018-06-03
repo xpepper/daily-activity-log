@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2018-6-3">
+    <action type="watched">
+      The Practical Implications Of Microservices - GeeCON 2014: Sam Newman
+    </action>
+    <references>
+      <reference type="source" src="https://vimeo.com/99531595" />
+    </references>
+  </event>
+  <event date="2018-6-3">
     <action type="read">
       Implementing correlation ids in Spring Boot (for distributed tracing in SOA/microservices)
     </action>
