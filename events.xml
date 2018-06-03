@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-6-3">
+    <action type="read">
+      Implementing correlation ids in Spring Boot (for distributed tracing in SOA/microservices)
+    </action>
+    <references>
+      <reference type="source" src="https://taidevcouk.wordpress.com/2014/05/26/implementing-correlation-ids-in-spring-boot/" />
+    </references>
+  </event>
   <event date="2018-6-2">
     <action type="read">
       Correlation IDs for microservices architectures - Peter Hilton
