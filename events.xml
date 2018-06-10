@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-6-10">
+    <action type="read">
+      Understanding suspend function of Kotlin Coroutines
+    </action>
+    <references>
+      <reference type="source" src="https://medium.com/@elye.project/understanding-suspend-function-of-coroutines-de26b070c5ed" />
+    </references>
+  </event>
   <event date="2018-6-3">
     <action type="watched">
       The Practical Implications Of Microservices - GeeCON 2014: Sam Newman
