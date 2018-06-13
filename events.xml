@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-6-13">
+    <action type="watched">
+      GOTO 2017 • The Many Meanings of Event-Driven Architecture - Martin Fowler
+    </action>
+    <references>
+      <reference type="source" src="https://www.youtube.com/watch?v=STKCRSUsyP0" />
+      <reference type="source" src="https://gist.github.com/xpepper/36beda855540b0c1dde6c4c417dafec9" />
+    </references>
+  </event>
   <event date="2018-6-10">
     <action type="read">
       Understanding suspend function of Kotlin Coroutines
