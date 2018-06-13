@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2018-6-13">
+    <action type="read">
+      What do you mean by "Event-Driven"? - Martin Fowler
+    </action>
+    <references>
+      <reference type="source" src="https://martinfowler.com/articles/201701-event-driven.html" />
+    </references>
+  </event>
+  <event date="2018-6-13">
     <action type="watched">
       GOTO 2017 • The Many Meanings of Event-Driven Architecture - Martin Fowler
     </action>
