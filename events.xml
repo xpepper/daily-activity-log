@@ -3,6 +3,14 @@
 <events>
   <event date="2018-6-13">
     <action type="read">
+      Focusing on Events - Martin Fowler
+    </action>
+    <references>
+      <reference type="source" src="https://martinfowler.com/eaaDev/EventNarrative.html" />
+    </references>
+  </event>
+  <event date="2018-6-13">
+    <action type="read">
       What do you mean by "Event-Driven"? - Martin Fowler
     </action>
     <references>
