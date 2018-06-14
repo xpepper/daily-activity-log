@@ -3,6 +3,22 @@
 <events>
   <event date="2018-6-14">
     <action type="read">
+      DevOpsCulture - Rouan Wilsenach
+    </action>
+    <references>
+      <reference type="source" src="https://martinfowler.com/bliki/DevOpsCulture.html" />
+    </references>
+  </event>
+  <event date="2018-6-14">
+    <action type="read">
+      The Case for #NoEstimates - Johanna Rothman
+    </action>
+    <references>
+      <reference type="source" src="https://www.agileconnection.com/article/case-noestimates" />
+    </references>
+  </event>
+  <event date="2018-6-14">
+    <action type="read">
       Audit Log - Martin Fowler
     </action>
     <references>
