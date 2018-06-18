@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-6-18">
+    <action type="read">
+      CQRS - Martin Fowler
+    </action>
+    <references>
+      <reference type="source" src="https://martinfowler.com/bliki/CQRS.html" />
+    </references>
+  </event>
   <event date="2018-6-17">
     <action type="read">
       Event Sourcing in practice (slides) - Johannes Seitz (Ookami86)
