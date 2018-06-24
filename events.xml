@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-6-24">
+    <action type="watched">
+      How to Build a React App in Kotlin - Dave Ford, KotlinConf 2017
+    </action>
+    <references>
+      <reference type="source" src="https://www.youtube.com/watch?v=FDOECr-sT6U" />
+    </references>
+  </event>
   <event date="2018-6-21">
     <action type="watched">
       Kotlin 102 - Beyond the basics by Hadi Hariri
