@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
-  <event date="2018-7-2">
-    <action type="listened">
-      Scrum Master Toolbox Podcast - Mattia Battiston interview week (five episodes)
-    </action>
-    <references>
-      <reference type="source" src="https://scrum-master-toolbox.org/2017/09/podcast/mattia-battiston-on-the-importance-of-hiring-the-right-people-for-the-team/" />
-    </references>
-  </event>
-  <event date="2018-6-29">
-    <action type="listened">
-      Scrum Master Toolbox Podcast - Angel Diaz-Maroto interview week (five episodes)
-    </action>
-    <references>
-      <reference type="source" src="https://scrum-master-toolbox.org/2015/12/podcast/angel-diaz-maroto-from-programmer-to-leader-and-what-he-learned-in-the-process/" />
-    </references>
-  </event>
-  <event date="2018-6-28">
-    <action type="read">
-      8 Years Agile – From Startup ScrumMaster to Agile Coaching Group at a Company of 500 - Heidi Helfand
-    </action>
-    <references>
-      <reference type="source" src="https://www.agilealliance.org/resources/experience-reports/8-years-agile-startup-scrummaster-agile-coaching-group-company-500/" />
-    </references>
-  </event>
   <event date="2018-6-24">
     <action type="watched">
       How to Build a React App in Kotlin - Dave Ford, KotlinConf 2017
