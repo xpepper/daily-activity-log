@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-7-5">
+    <action type="listened">
+      Scrum Master Toolbox Podcast - Sean Dunn’s experience of failure leading an army patrol
+    </action>
+    <references>
+      <reference type="source" src="https://scrum-master-toolbox.org/2015/11/podcast/sean-dunns-experience-of-failure-leading-an-army-patrol/" />
+    </references>
+  </event>
   <event date="2018-7-2">
     <action type="listened">
       Scrum Master Toolbox Podcast - Mattia Battiston interview week (five episodes)
