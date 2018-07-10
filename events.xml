@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-7-10">
+    <action type="watched">
+      Core Design Principles for Software Developers - Venkat Subramaniam
+    </action>
+    <references>
+      <reference type="source" src="https://www.youtube.com/watch?v=llGgO74uXMI" />
+    </references>
+  </event>
   <event date="2018-7-9">
     <action type="read">
       Story Points and Velocity: The Good Bits - Pawel Brodzinski
