@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-7-14">
+    <action type="read">
+      Story Points Considered Harmful - Or why the future of estimation is really in our past... - Vasco Duarte
+    </action>
+    <references>
+      <reference type="source" src="http://softwaredevelopmenttoday.blogspot.com/2012/01/story-points-considered-harmful-or-why.html" />
+    </references>
+  </event>
   <event date="2018-7-10">
     <action type="watched">
       Core Design Principles for Software Developers - Venkat Subramaniam
