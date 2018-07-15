@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-7-15">
+    <action type="read">
+      Using Silent Grouping to Size User Stories - Ken Power
+    </action>
+    <references>
+      <reference type="source" src="https://systemagility.com/2011/05/22/using-silent-grouping-to-size-user-stories/" />
+    </references>
+  </event>
   <event date="2018-7-14">
     <action type="read">
       Story Points Considered Harmful - Or why the future of estimation is really in our past... - Vasco Duarte
