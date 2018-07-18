@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-7-18">
+    <action type="read">
+      The 8 Characteristics of High Performing Teams - Tim Baker
+    </action>
+    <references>
+      <reference type="source" src="https://www.linkedin.com/pulse/8-characteristics-high-performing-teams-dr-tim-baker/" />
+    </references>
+  </event>
   <event date="2018-7-15">
     <action type="read">
       Using Silent Grouping to Size User Stories - Ken Power
