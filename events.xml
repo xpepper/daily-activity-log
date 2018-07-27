@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-7-27">
+    <action type="read">
+      Flavours of Agile - Pat Kua
+    </action>
+    <references>
+      <reference type="source" src="https://www.thekua.com/atwork/2018/07/flavours-of-agile/" />
+    </references>
+  </event>
   <event date="2018-7-24">
     <action type="read">
       Story Points Estimate Effort Not Just Complexity - Mike Cohn
