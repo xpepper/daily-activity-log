@@ -3,6 +3,14 @@
 <events>
   <event date="2018-7-27">
     <action type="read">
+      About SAFe, lean, agile, and modern management theory - Luca Minudel
+    </action>
+    <references>
+      <reference type="source" src="https://www.linkedin.com/pulse/safe-lean-agile-modern-management-theory-luca-minudel/" />
+    </references>
+  </event>
+  <event date="2018-7-27">
+    <action type="read">
       Flavours of Agile - Pat Kua
     </action>
     <references>
