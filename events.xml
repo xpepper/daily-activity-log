@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-7-30">
+    <action type="read">
+      Cynefin for Everyone! - Liz Keogh
+    </action>
+    <references>
+      <reference type="source" src="https://lizkeogh.com/cynefin-for-everyone/" />
+    </references>
+  </event>
+  <event date="2018-7-29">
+    <action type="read">
+      Chapter 4 "Forecasting and Planning: “When will it be done?”" - Team Guide to Metrics for Business Decisions
+    </action>
+    <references>
+      <reference type="source" src="https://leanpub.com/metricsforbusinessdecisions" />
+    </references>
+  </event>
   <event date="2018-7-27">
     <action type="read">
       About SAFe, lean, agile, and modern management theory - Luca Minudel
@@ -30,7 +46,7 @@
       Chapter 1 "Throughput: “How fast are we going?”" - Team Guide to Metrics for Business Decisions
     </action>
     <references>
-      <reference type="source" src="https://www.mountaingoatsoftware.com/blog/its-effort-not-complexity" />
+      <reference type="source" src="https://leanpub.com/metricsforbusinessdecisions" />
     </references>
   </event>
   <event date="2018-7-18">
