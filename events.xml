@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-8-6">
+    <action type="read">
+      Charters and Chartering: Immunization against foreseeable project failure - III
+    </action>
+    <references>
+      <reference type="source" src="http://industriallogic.com/papers/Chartering.pdf" />
+    </references>
+  </event>
   <event date="2018-7-31">
     <action type="listened">
       Scrum Master Toolbox Podcast - Json Little interview week (five episodes)
