@@ -19,6 +19,14 @@
   </event>
   <event date="2018-7-30">
     <action type="read">
+      Modern Agile — Agile for the whole ecosystem of a company - Willem-Jan Ageling
+    </action>
+    <references>
+      <reference type="source" src="https://medium.com/agile-insights/modern-agile-agile-goes-beyond-software-development-13a7cc3466c1" />
+    </references>
+  </event>
+  <event date="2018-7-30">
+    <action type="read">
       Cynefin for Everyone! - Liz Keogh
     </action>
     <references>
