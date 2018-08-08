@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-7-31">
+    <action type="listened">
+      Scrum Master Toolbox Podcast - Json Little interview week (five episodes)
+    </action>
+    <references>
+      <reference type="source" src="https://scrum-master-toolbox.org/2016/03/podcast/jason-little-shares-how-hard-it-is-to-handle-disruptive-team-members/" />
+    </references>
+  </event>
   <event date="2018-7-30">
     <action type="read">
       Cynefin for Everyone! - Liz Keogh
