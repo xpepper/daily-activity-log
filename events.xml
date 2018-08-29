@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-8-29">
+    <action type="listened">
+      SE-Radio Episode 326: Dmitry Jemerov and Svetlana Isakova on the Kotlin Programming Language
+    </action>
+    <references>
+      <reference type="source" src="http://www.se-radio.net/2018/06/se-radio-episode-326-dmitry-jemerov-and-svetlana-isakova-on-the-kotlin-programming-language/" />
+    </references>
+  </event>
   <event date="2018-8-6">
     <action type="read">
       Charters and Chartering: Immunization against foreseeable project failure - III
