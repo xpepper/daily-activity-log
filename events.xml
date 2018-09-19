@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-9-17">
+    <action type="read">
+      Surviving Legacy Code with Golden Master and Sampling - J. B. Rainsberger
+    </action>
+    <references>
+      <reference type="source" src="https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling" />
+      <reference type="source" src="https://my.mindnode.com/UwnXMrb6pKAzQpR9qpbqUZzjpnGQHXys2Ape8ZvU" />
+    </references>
+  </event>
+  <event date="2018-9-16">
+    <action type="watched">
+      How To Distill The Core Domain From Your Legacy App (Live Coding) - Thomas Pierrain and Bruno Boucard
+    </action>
+    <references>
+      <reference type="source" src="https://www.youtube.com/watch?v=mZzPwt9vhHM" />
+    </references>
+  </event>
+  <event date="2018-9-13">
+    <action type="read">
+      On Redis master-slave terminology - Antirez
+    </action>
+    <references>
+      <reference type="source" src="http://antirez.com/news/122" />
+    </references>
+  </event>
+  <event date="2018-9-11">
+    <action type="read">
+      Squad Health Check model – visualizing what to improve - Henrik Kniberg
+    </action>
+    <references>
+      <reference type="source" src="https://labs.spotify.com/2014/09/16/squad-health-check-model/" />
+    </references>
+  </event>
+  <event date="2018-9-10">
+    <action type="watched">
+      Comparative Case Study London vs. Chicago, Episode 1-4 - Robert Martin and Sandro Mancuso
+    </action>
+    <references>
+      <reference type="source" src="https://cleancoders.com/episode/comparativeDesign-episode-1/show" />
+      <reference type="source" src="https://gist.github.com/xpepper/2e3519d2cb8568a0b13739d9ae497f21" />
+    </references>
+  </event>
   <event date="2018-9-2">
     <action type="read">
       Developers Should Abandon Agile - Ron Jeffries
