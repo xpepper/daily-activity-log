@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-9-30">
+    <action type="read">
+      How To Spot The Legacy Code Writer In Your Company (Hint: It’s You) - Arialdo Martini
+    </action>
+    <references>
+      <reference type="source" src="https://arialdomartini.wordpress.com/2013/05/31/how-to-spot-the-legacy-code-writer-in-your-company-hint-its-you/" />
+      <reference type="source" src="https://my.mindnode.com/USSKhRjTNyfUyujkRHp4q6c6xkAt3yZUqNafpYhk" />
+    </references>
+  </event>
   <event date="2018-9-17">
     <action type="read">
       Surviving Legacy Code with Golden Master and Sampling - J. B. Rainsberger
