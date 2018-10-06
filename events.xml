@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-10-5">
+    <action type="read">
+      Characterization Testing, Writing tests to describe and fix existing code - Michael Feathers
+    </action>
+    <references>
+      <reference type="source" src="https://michaelfeathers.silvrback.com/characterization-testing" />
+    </references>
+  </event>
   <event date="2018-9-30">
     <action type="read">
       How To Spot The Legacy Code Writer In Your Company (Hint: It’s You) - Arialdo Martini
@@ -25,6 +33,7 @@
     </action>
     <references>
       <reference type="source" src="https://www.youtube.com/watch?v=mZzPwt9vhHM" />
+      <reference type="source" src="https://gist.github.com/xpepper/74a81232ef59dde3c4684c960acb482a" />
     </references>
   </event>
   <event date="2018-9-13">
