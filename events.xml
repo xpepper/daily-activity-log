@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-10-25">
+    <action type="read">
+      All You Need To Know For Migrating To Java 11 - Nicolai Parlog
+    </action>
+    <references>
+      <reference type="source" src="https://blog.codefx.org/java/java-11-migration-guide/" />
+    </references>
+  </event>
+  <event date="2018-10-10">
+    <action type="read">
+      test &amp;&amp; commit || revert - Kent Beck
+    </action>
+    <references>
+      <reference type="source" src="https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864" />
+    </references>
+  </event>
+  <event date="2018-10-9">
+    <action type="read">
+      Orange Code, What humble citrus fruit can tell us about software - Michael Feathers
+    </action>
+    <references>
+      <reference type="source" src="https://michaelfeathers.silvrback.com/orange-code" />
+    </references>
+  </event>
+  <event date="2018-10-8">
+    <action type="read">
+      Working Effectively with Legacy Tests - Nat Pryce
+    </action>
+    <references>
+      <reference type="source" src="http://natpryce.com/articles/000813.html" />
+    </references>
+  </event>
+  <event date="2018-10-7">
+    <action type="read">
+      The Life-Changing Magic of Tidying Up Code - Kent Beck
+    </action>
+    <references>
+      <reference type="source" src="https://www.facebook.com/notes/kent-beck/the-life-changing-magic-of-tidying-up-code/1544047022294823/" />
+    </references>
+  </event>
+  <event date="2018-10-6">
+    <action type="listened">
+      SE-Radio Episode 295: Michael Feathers on Legacy Code
+    </action>
+    <references>
+      <reference type="source" src="http://www.se-radio.net/2017/06/se-radio-episode-295-michael-feathers-on-legacy-code/" />
+    </references>
+  </event>
   <event date="2018-10-5">
     <action type="read">
       Characterization Testing, Writing tests to describe and fix existing code - Michael Feathers
