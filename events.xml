@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2018-10-27">
+    <action type="read">
+      Java 9/10/11 - What's new and why you should upgrade - Simone Bordet
+    </action>
+    <references>
+      <reference type="source" src="https://www.slideshare.net/SimoneBordet/java-91011-whats-new-and-why-you-should-upgrade" />
+    </references>
+  </event>
+  <event date="2018-10-27">
     <action type="watched">
       Exploring Java 9 by Venkat Subramaniam
     </action>
