@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-10-27">
+    <action type="watched">
+      Exploring Java 9 by Venkat Subramaniam
+    </action>
+    <references>
+      <reference type="source" src="https://www.youtube.com/watch?v=8XmYT89fBKg" />
+      <reference type="source" src="https://gist.github.com/xpepper/61e94e1931ce5349f857a40897a5ba08" />
+    </references>
+  </event>
   <event date="2018-10-25">
     <action type="read">
       All You Need To Know For Migrating To Java 11 - Nicolai Parlog
