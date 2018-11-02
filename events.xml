@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-11-1">
+    <action type="watched">
+      Java 11: A New Dawn - Releases, Oracle JDK vs OpenJDK, and LTS - Nicolai Parlog
+    </action>
+    <references>
+      <reference type="source" src="https://www.youtube.com/watch?v=7xkyV2kLb0c" />
+      <reference type="source" src="https://slides.codefx.org/java-next/2018-09-30-codefx@yt/#/" />
+    </references>
+  </event>
   <event date="2018-10-27">
     <action type="watched">
       Java 9/10/11 - What's new and why you should upgrade - Simone Bordet
