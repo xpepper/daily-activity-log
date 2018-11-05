@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-11-3">
+    <action type="read">
+      Java is still available at zero-cost - Stephen Colebourne
+    </action>
+    <references>
+      <reference type="source" src="https://blog.joda.org/2018/08/java-is-still-available-at-zero-cost.html" />
+    </references>
+  </event>
   <event date="2018-11-1">
     <action type="watched">
       Java 11: A New Dawn - Releases, Oracle JDK vs OpenJDK, and LTS - Nicolai Parlog
