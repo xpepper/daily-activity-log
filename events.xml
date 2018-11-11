@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-11-10">
+    <action type="read">
+      Legacy Coderetreat: Part 3 - Golden Master - Adrian Bolboaca
+    </action>
+    <references>
+      <reference type="source" src="http://blog.adrianbolboaca.ro/2014/05/golden-master/" />
+    </references>
+  </event>
+  <event date="2018-11-11">
+    <action type="read">
+      Legacy Coderetreat: Part 2 - From Nothing to System Tests - Adrian Bolboaca
+    </action>
+    <references>
+      <reference type="source" src="http://blog.adrianbolboaca.ro/2014/04/from-nothing-to-system-tests/" />
+    </references>
+  </event>
   <event date="2018-11-3">
     <action type="read">
       Java is still available at zero-cost - Stephen Colebourne
