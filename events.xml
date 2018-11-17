@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-11-16">
+    <action type="read">
+      Legacy Coderetreat: Part 5 – Add features on Legacy Code
+    </action>
+    <references>
+      <reference type="source" src="http://blog.adrianbolboaca.ro/2014/11/add-features-on-legacy-code/" />
+    </references>
+  </event>
   <event date="2018-11-15">
+    <action type="read">
+      Legacy Coderetreat: Part 4 – Fix bugs on Legacy Code
+    </action>
+    <references>
+      <reference type="source" src="http://blog.adrianbolboaca.ro/2014/05/fix-bugs-on-legacy-code/" />
+    </references>
+  </event>
+  <event date="2018-11-14">
     <action type="listened">
       Actionable Agile Metrics with Daniel Vacanti
     </action>
