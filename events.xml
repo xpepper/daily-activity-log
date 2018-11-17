@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-11-15">
+    <action type="listened">
+      Actionable Agile Metrics with Daniel Vacanti
+    </action>
+    <references>
+      <reference type="source" src="https://podcast.agileuprising.com/actionable-agile-metrics-with-daniel-vacanti/" />
+    </references>
+  </event>
   <event date="2018-11-10">
     <action type="read">
       Legacy Coderetreat: Part 3 - Golden Master - Adrian Bolboaca
