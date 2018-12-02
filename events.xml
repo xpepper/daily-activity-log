@@ -3,6 +3,14 @@
 <events>
   <event date="2018-11-17">
     <action type="read">
+      OpportunisticRefactoring - Martin Fowler
+    </action>
+    <references>
+      <reference type="source" src="https://martinfowler.com/bliki/OpportunisticRefactoring.html" />
+    </references>
+  </event>
+  <event date="2018-11-17">
+    <action type="read">
       Golden Master and legacy - a few insights - Johan Martinsson
     </action>
     <references>
