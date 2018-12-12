@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-12-10">
+    <action type="watched">
+      Integrated Tests Are A Scam - J.B. Rainsberger
+    </action>
+    <references>
+      <reference type="source" src="https://vimeo.com/80533536" />
+    </references>
+  </event>
   <event date="2018-11-17">
     <action type="read">
       OpportunisticRefactoring - Martin Fowler
