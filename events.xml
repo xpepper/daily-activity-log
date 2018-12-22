@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-12-22">
+    <action type="read">
+      You Are Not A Software Developer - Eduards Sizovs
+    </action>
+    <references>
+      <reference type="source" src="https://sizovs.net/2018/12/08/you-are-not-a-software-developer" />
+    </references>
+  </event>
   <event date="2018-12-10">
     <action type="watched">
       Integrated Tests Are A Scam - J.B. Rainsberger
