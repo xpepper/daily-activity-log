@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2019-01-04">
+    <action type="watched">
+      Il Machine Learning spiegato agli umani - Paolo Perrotta
+    </action>
+    <references>
+      <reference type="source" src="https://www.youtube.com/watch?v=V55B3thsz3I" />
+      <reference type="source" src="https://gist.github.com/xpepper/7c4958a93db3c3781641bbd86bbc040f" />
+    </references>
+  </event>
   <event date="2018-12-22">
     <action type="read">
       You Are Not A Software Developer - Eduards Sizovs
