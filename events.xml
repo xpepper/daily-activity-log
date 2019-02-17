@@ -9,6 +9,14 @@
       <reference type="source" src="https://www.coursera.org/learn/machine-learning/home/week/3" />
     </references>
   </event>
+  <event date="2019-02-11">
+    <action type="listened">
+      The Power of Getting Weird at Work, with CJ Casciotta - Happiness at Work podcast
+    </action>
+    <references>
+      <reference type="source" src="https://management30.com/podcast/lean-mindset-asking-the-right-questions/" />
+    </references>
+  </event>
   <event date="2019-02-09">
     <action type="read">
       On being lost - Chapter 1 by Simon Wardley
@@ -17,12 +25,28 @@
       <reference type="source" src="https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec" />
     </references>
   </event>
-  <event date="2019-02-4">
+  <event date="2019-02-07">
+    <action type="listened">
+      Lean Mindset: Asking the Right Questions, with Mary and Tom Poppendieck - Happiness at Work podcast
+    </action>
+    <references>
+      <reference type="source" src="https://management30.com/podcast/lean-mindset-asking-the-right-questions/" />
+    </references>
+  </event>
+  <event date="2019-02-04">
     <action type="watched">
       Machine Learning course by Stanford University - week 2
     </action>
     <references>
       <reference type="source" src="https://www.coursera.org/learn/machine-learning/home/week/2" />
+    </references>
+  </event>
+  <event date="2019-01-27">
+    <action type="listened">
+      Decide to be a Radiant Human Being with Patch Adams - Happiness at Work podcast
+    </action>
+    <references>
+      <reference type="source" src="https://management30.com/podcast/decide-to-be-a-radiant-human-being-with-patch-adams/" />
     </references>
   </event>
   <event date="2019-01-26">
