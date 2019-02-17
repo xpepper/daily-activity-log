@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2019-02-11">
+    <action type="watched">
+      Machine Learning course by Stanford University - week 3
+    </action>
+    <references>
+      <reference type="source" src="https://www.coursera.org/learn/machine-learning/home/week/3" />
+    </references>
+  </event>
+  <event date="2019-02-09">
+    <action type="read">
+      On being lost - Chapter 1 by Simon Wardley
+    </action>
+    <references>
+      <reference type="source" src="https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec" />
+    </references>
+  </event>
+  <event date="2019-02-4">
+    <action type="watched">
+      Machine Learning course by Stanford University - week 2
+    </action>
+    <references>
+      <reference type="source" src="https://www.coursera.org/learn/machine-learning/home/week/2" />
+    </references>
+  </event>
+  <event date="2019-01-26">
+    <action type="watched">
+      Machine Learning course by Stanford University - week 1
+    </action>
+    <references>
+      <reference type="source" src="https://www.coursera.org/learn/machine-learning/home/week/1" />
+    </references>
+  </event>
   <event date="2019-01-04">
     <action type="watched">
       Il Machine Learning spiegato agli umani - Paolo Perrotta
