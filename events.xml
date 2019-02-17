@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2019-02-11">
-    <action type="watched">
+    <action type="watching">
       Machine Learning course by Stanford University - week 3
     </action>
     <references>
