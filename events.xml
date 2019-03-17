@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2019-03-17">
+    <action type="read">
+      La concretezza del pomodoro - Francesco Cirillo
+    </action>
+    <references>
+      <reference type="source" src="http://www.mokabyte.it/2019/02/intervistacirillo/" />
+    </references>
+  </event>
+  <event date="2019-03-15">
+    <action type="read">
+      Sealed Classes Instead of Exceptions in Kotlin - Philipp Hauer
+    </action>
+    <references>
+      <reference type="source" src="https://phauer.com/2019/sealed-classes-exceptions-kotlin/" />
+    </references>
+  </event>
+  <event date="2019-03-14">
+    <action type="read">
+      Best Practices for Unit Testing in Kotlin - Philipp Hauer
+    </action>
+    <references>
+      <reference type="source" src="https://phauer.com/2018/best-practices-unit-testing-kotlin/" />
+    </references>
+  </event>
   <event date="2019-02-11">
     <action type="watching">
       Machine Learning course by Stanford University - week 3
