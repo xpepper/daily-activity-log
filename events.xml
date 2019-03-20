@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2019-03-20">
+    <action type="read">
+      The Wrong Abstraction - Sandi Metz
+    </action>
+    <references>
+      <reference type="source" src="https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction" />
+    </references>
+  </event>
+  <event date="2019-03-19">
+    <action type="watched">
+      Sealed Classes Opened My Mind: How We Use Kotlin to Tame State at Etsy by Patrick - KotlinConf 2018
+    </action>
+    <references>
+      <reference type="source" src="https://www.youtube.com/watch?v=uGMm3StjqLI" />
+    </references>
+  </event>
   <event date="2019-03-17">
     <action type="read">
       La concretezza del pomodoro - Francesco Cirillo
