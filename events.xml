@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2019-03-23">
+    <action type="watched">
+      Shaping Your App's Architecture with Kotlin and Architecture Components by Florina - KotlinConf 2018
+    </action>
+    <references>
+      <reference type="source" src="https://www.youtube.com/watch?v=Sy6ZdgqrQp0" />
+    </references>
+  </event>
   <event date="2019-03-20">
     <action type="read">
       The Wrong Abstraction - Sandi Metz
