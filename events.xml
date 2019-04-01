@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2019-03-30">
+    <action type="read">
+      Why It Doesn't Have to Be Crazy at Work - David Heinemeier Hansson
+    </action>
+    <references>
+      <reference type="source" src="https://www.owllabs.com/remote-work-interviews/david-heinemeier-hansson" />
+    </references>
+  </event>
   <event date="2019-03-23">
     <action type="watched">
       Shaping Your App's Architecture with Kotlin and Architecture Components by Florina - KotlinConf 2018
