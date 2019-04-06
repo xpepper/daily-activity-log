@@ -3,7 +3,7 @@
 <events>
   <event date="2019-04-5">
     <action type="watched">
-      Creating Internal DSLs in Kotlin by Venkat Subramaniam -KotlinConf 2018
+      Creating Internal DSLs in Kotlin by Venkat Subramaniam - KotlinConf 2018
     </action>
     <references>
       <reference type="source" src="https://www.youtube.com/watch?v=JzTeAM8N1-o" />
