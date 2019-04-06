@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2019-04-5">
+    <action type="watched">
+      Creating Internal DSLs in Kotlin by Venkat Subramaniam -KotlinConf 2018
+    </action>
+    <references>
+      <reference type="source" src="https://www.youtube.com/watch?v=JzTeAM8N1-o" />
+    </references>
+  </event>
   <event date="2019-03-30">
     <action type="read">
       Why It Doesn't Have to Be Crazy at Work - David Heinemeier Hansson
