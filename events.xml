@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2019-04-10">
+    <action type="read">
+      Kotlin pearls: It’s an Object… It’s a Function… It’s an Invokable - Uberto Barbini
+    </action>
+    <references>
+      <reference type="source" src="https://proandroiddev.com/kotlin-pearls-3-its-an-object-it-s-a-function-it-s-an-invokable-bc4bfed2e63f" />
+    </references>
+  </event>
   <event date="2019-04-6">
     <action type="read">
       Kotlin Scoping Functions apply vs. with, let, also, and run - Fatih Coşkun
