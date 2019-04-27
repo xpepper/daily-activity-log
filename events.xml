@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2019-04-27">
+    <action type="read">
+      Building micro-frontends - Luca Mezzalira (DAZN)
+    </action>
+    <references>
+      <reference type="source" src="https://docs.google.com/presentation/d/1DgK2mjJ9IYbCmjgzJH5ru5YLv88zKpcCxKrMozqnT3A/edit#slide=id.g35f391192_00" />
+    </references>
+  </event>
   <event date="2019-04-10">
     <action type="read">
       Kotlin pearls: It’s an Object… It’s a Function… It’s an Invokable - Uberto Barbini
