@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2019-04-28">
+    <action type="watched">
+      Exploring Coroutines in Kotlin by Venkat Subramariam - KotlinConf 2018
+    </action>
+    <references>
+      <reference type="source" src="https://www.youtube.com/watch?v=jT2gHPQ4Z1Q" />
+    </references>
+  </event>
   <event date="2019-04-27">
     <action type="read">
       Building micro-frontends - Luca Mezzalira (DAZN)
